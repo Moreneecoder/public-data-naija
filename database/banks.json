@@ -1,0 +1,103 @@
+{
+  "table": [
+    {
+      "type": "commercial",
+      "name": "Fidelity Bank",
+      "short": "FDB",
+      "ussd": "123",
+      "website": "fidelity.com",
+      "email": "info@fidelity.com",
+      "phone": "08034292349",
+      "id": 3,
+      "logo": "https://res.cloudinary.com/mobello/image/upload/v1607125258/bank_logos/Fidelity%20Bank-logo.png"
+    },
+    {
+      "type": "commercial",
+      "name": "Sterling Bank",
+      "short": "FDB",
+      "ussd": "123",
+      "website": "fidelity.com",
+      "email": "info@fidelity.com",
+      "phone": "08034292349",
+      "id": 4,
+      "logo": "https://res.cloudinary.com/mobello/image/upload/v1607125485/bank_logos/SterlingBank-logo.png"
+    },
+    {
+      "type": "microfinance",
+      "name": "Providus Bank",
+      "short": "PVD",
+      "ussd": "534",
+      "website": "providus.com",
+      "email": "support@providus.com",
+      "phone": "08012345678",
+      "id": 5,
+      "logo": "https://res.cloudinary.com/mobello/image/upload/v1607125697/bank_logos/Providus%20Bank-logo.png"
+    },
+    {
+      "type": "merchant",
+      "name": "Mo bank",
+      "short": "MB",
+      "ussd": "325",
+      "website": "mobello.dev",
+      "email": "me@mobello.dev",
+      "phone": "07081520327",
+      "id": 6,
+      "logo": "https://res.cloudinary.com/mobello/image/upload/v1607126667/bank_logos/Mo%20bank-logo.png"
+    },
+    {
+      "type": "payment_service",
+      "name": "Kuda Bank",
+      "short": "KD",
+      "ussd": "594",
+      "website": "kuda.com",
+      "email": "service@kuda.com",
+      "phone": "+23489432892",
+      "id": 7,
+      "logo": "https://res.cloudinary.com/mobello/image/upload/v1607126844/bank_logos/Kuda%20Bank-logo.png"
+    },
+    {
+      "type": "merchant",
+      "name": "Ogo Oluwa Community Bank",
+      "short": "OOCB",
+      "ussd": "111",
+      "website": "oogc.com",
+      "email": "support@oogc.com",
+      "phone": "+2347081520327",
+      "id": 8,
+      "logo": "https://res.cloudinary.com/mobello/image/upload/v1607127390/bank_logos/Ogo%20Oluwa%20Community%20Bank-logo.png"
+    },
+    {
+      "type": "microfinance",
+      "name": "Ace Bank",
+      "short": "ACB",
+      "ussd": "234",
+      "website": "providus.com",
+      "email": "bellokeji19@gmail.com",
+      "phone": "+2347081520327",
+      "id": 9,
+      "logo": "https://res.cloudinary.com/mobello/image/upload/v1607127490/bank_logos/Ace%20Bank-logo.svg"
+    },
+    {
+      "type": "microfinance+",
+      "name": "Ace Bank",
+      "short": "ACB",
+      "ussd": "234",
+      "website": "providus.com",
+      "email": "bellokeji19@gmail.com",
+      "phone": "+2347081520327",
+      "id": 10,
+      "logo": "https://res.cloudinary.com/mobello/image/upload/v1607127490/bank_logos/Ace%20Bank-logo.svg"
+    },
+    {
+      "type": "commercial",
+      "name": "First City Monument Bank",
+      "short": "FCMB",
+      "ussd": "789",
+      "website": "fcmb.com",
+      "email": "us@fcmb.com",
+      "phone": "+2347081520327",
+      "id": 11,
+      "logo": "https://res.cloudinary.com/mobello/image/upload/v1607127752/bank_logos/First%20City%20Monument%20Bank-logo.png"
+    }
+  ]
+}
